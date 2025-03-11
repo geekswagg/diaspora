@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "rails", "6.1.7.8"
+gem "rails", "7.1.5.1"
 
 # needed for actionmailer, can be removed when upgrading to rails 7
 gem "net-imap", require: false
@@ -15,7 +15,7 @@ gem "responders", "3.1.1"
 
 # Appserver
 
-gem "puma", "6.4.2", require: false
+gem "puma", "6.4.3", require: false
 
 # Federation
 
@@ -33,7 +33,7 @@ gem "yajl-ruby",   "1.4.3"
 
 gem "devise", "4.9.4"
 gem "devise_lastseenable", "0.0.6"
-gem "devise-two-factor", "4.1.0"
+gem "devise-two-factor", "6.1.0"
 gem "rqrcode", "2.2.0"
 
 # Captcha
@@ -109,7 +109,7 @@ gem "leaflet-rails", "1.9.4"
 
 # Parsing
 
-gem "nokogiri",          "1.16.5"
+gem "nokogiri",          "1.18.3"
 gem "open_graph_reader", "0.7.2" # also update User-Agent in features/support/webmock.rb and open_graph_cache_spec.rb
 gem "redcarpet",         "3.6.0"
 gem "ruby-oembed",       "0.17.0"
