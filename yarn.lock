@@ -175,10 +175,10 @@ mimoza@~1.0.0:
   dependencies:
     mime-db "^1.6.0"
 
-multimath@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/multimath/-/multimath-1.0.3.tgz#eadee6fb9d727d329d64d60bba247af42334451d"
-  integrity sha512-Pfkai+VVbWSBL2XyzKIisZ2HFJ4a6lTWoyfjUUMu34bFkewmmYuG9/mB6l8/7O/Zs2Ap3u81ueKxTHoOmkZp4Q==
+multimath@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/multimath/-/multimath-2.0.0.tgz#0d37acf67c328f30e3d8c6b0d3209e6082710302"
+  integrity sha512-toRx66cAMJ+Ccz7pMIg38xSIrtnbozk0dchXezwQDMgQmbGpfxjtv68H+L00iFL8hxDaVjrmwAFSb3I6bg8Q2g==
   dependencies:
     glur "^1.1.2"
     object-assign "^4.1.1"
@@ -193,13 +193,13 @@ perfect-scrollbar@1.5.5:
   resolved "https://registry.yarnpkg.com/perfect-scrollbar/-/perfect-scrollbar-1.5.5.tgz#41a211a2fb52a7191eff301432134ea47052b27f"
   integrity sha512-dzalfutyP3e/FOpdlhVryN4AJ5XDVauVWxybSkLZmakFE2sS3y3pc4JnSprw8tGmHvkaG5Edr5T7LBTZ+WWU2g==
 
-pica@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/pica/-/pica-5.0.0.tgz#c01ca5bce8ba07c0e7fd4d0c408199e8ad0a2f86"
-  integrity sha512-g+Ik3Co+2ybRYOrh77xUz+BsFF+anyAdqX+XRGTWbEW6u7CbNA6/m2wKAiloZPFngmomh6HOKcY9AperpV5Zzg==
+pica@5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/pica/-/pica-5.3.0.tgz#4b7f425fe1450f21acd9087437b35c870e1ad18d"
+  integrity sha512-kuHSj8OEgEiqKdfMKGrzZZb7IPWj1XeQpuvTQ+HGKRGxvFK9wIRPpWhOlq6S0BnDD3+4AQN5BoKwkvxAZWhUEg==
   dependencies:
     inherits "^2.0.3"
-    multimath "^1.0.3"
+    multimath "^2.0.0"
     object-assign "^4.1.1"
     webworkify "^1.5.0"
 
