@@ -21,10 +21,10 @@ backbone@1.6.0:
   dependencies:
     underscore ">=1.8.3"
 
-blueimp-gallery@2.33.0:
-  version "2.33.0"
-  resolved "https://registry.yarnpkg.com/blueimp-gallery/-/blueimp-gallery-2.33.0.tgz#f897912a1bbf65be904454d5990be6155799dd45"
-  integrity sha512-gz++nODmcJkENLXizdazy4z4EqoJCXyOisrH6M/fR3JE507yO+tPgoEsRCBggGwMAmQsu6kWACfldlq7RIa+Lg==
+blueimp-gallery@2.44.0:
+  version "2.44.0"
+  resolved "https://registry.yarnpkg.com/blueimp-gallery/-/blueimp-gallery-2.44.0.tgz#607908feb69897eef06e56f0d00d68e921498d45"
+  integrity sha512-msLsEV/7hpOokS/MimNbbrIv1lFnNe/45HeLJUvHUfuJklbPRiodXYSBs0Ibwe05un5bFRryQmmzhUZBiFaZmg==
 
 bootstrap-markdown@2.10.0:
   version "2.10.0"
